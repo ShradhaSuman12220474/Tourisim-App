@@ -1,0 +1,21 @@
+.classAboutIndia{
+    display: flex;
+    gap: 20px;
+
+}
+.india-left{
+    width: 50%;
+    border: 1px solid rgb(159, 157, 157);
+    border-radius: 20px;
+    background-color: white;
+}
+.india-right{
+    border: 1px solid rgb(147, 145, 145);
+    width: 50%;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 20px;
+}
+.india-right-heading{
+    
+}
