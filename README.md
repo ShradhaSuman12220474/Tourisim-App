@@ -34,9 +34,9 @@ npm start
 
 
 ``Technologies``
-React: Frontend framework for building user interfaces.
-React Router: For handling in-app routing.
-Axios: For making HTTP requests to the backend API.
-Leaflet: For interactive maps.
-Material-UI: For UI components and styling.
-Firebase: (Optional) For authentication and real-time database.
+1. React: Frontend framework for building user interfaces.
+2. React Router: For handling in-app routing.
+3. Axios: For making HTTP requests to the backend API.
+4. Leaflet: For interactive maps.
+5. Material-UI: For UI components and styling.
+6. Firebase: (Optional) For authentication and real-time database.
